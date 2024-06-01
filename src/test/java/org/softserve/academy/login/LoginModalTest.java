@@ -16,7 +16,6 @@ import static org.junit.jupiter.api.Assertions.*;
 @DisplayName("Login Modal Tests")
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class LoginModalTest {
-
     private WebDriver driver;
     private WebDriverWait wait;
 
