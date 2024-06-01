@@ -6,9 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import static org.junit.jupiter.api.Assertions.*;
-
 import java.time.Duration;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
